@@ -40,7 +40,7 @@ function Team() {
               className="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-lg hover:-translate-y-1 transition-all text-center"
             >
               <img
-                src={member.imgSrc}
+                src={`${process.env.PUBLIC_URL}${member.imgSrc}`}
                 alt={`Image of ${member.name}`}
                 className="w-32 h-32 rounded-full object-cover mx-auto mb-5 border-4 border-blue-500 max-w-full"
               />

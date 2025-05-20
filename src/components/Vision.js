@@ -26,7 +26,7 @@ function Vision() {
           </div>
           <div className="flex-none md:w-2/5 text-center">
             <img
-              src="/images/vision_section.jpg"
+              src={`${process.env.PUBLIC_URL}/images/vision_section.jpg`}
               alt="Vision of NexaCura HealthCare"
               className="w-full max-w-full h-auto rounded-lg shadow-lg object-contain"
             />

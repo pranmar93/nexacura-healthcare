@@ -28,7 +28,7 @@ function Solution() {
         </div>
         <div className="text-center">
           <img
-            src="/images/solution_diagram.png"
+            src={`${process.env.PUBLIC_URL}/images/solution_diagram.png`}
             alt="NexaCura Solution Diagram - SaMD Platform and Data Flow"
             className="w-full max-w-full h-auto max-h-96 rounded-lg shadow-lg mx-auto object-contain"
           />

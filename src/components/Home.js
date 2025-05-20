@@ -10,7 +10,7 @@ function Home() {
       <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
       <div className="relative z-20 w-full max-w-2xl mx-auto px-2 sm:px-6 lg:px-8">
         <img
-          src="/images/logo.png"
+          src={`${process.env.PUBLIC_URL}/images/logo.png`}
           alt="NexaCura HealthCare Logo"
           className="h-20 mb-5 mx-auto md:h-24 w-full max-w-full object-contain"
         />

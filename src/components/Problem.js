@@ -27,7 +27,7 @@ function Problem() {
           </div>
           <div className="flex-1 text-center">
             <img
-              src="/images/problem_section.jpg"
+              src={`${process.env.PUBLIC_URL}/images/problem_section.jpg`}
               alt="Conceptual image representing healthcare challenges"
               className="w-full max-w-full h-auto rounded-lg shadow-lg object-contain"
             />

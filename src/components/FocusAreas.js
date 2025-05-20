@@ -18,7 +18,7 @@ function FocusAreas() {
         </div>
         <div className="mb-10 text-center">
           <img
-            src="/images/focus_areas_banner.jpg"
+            src={`${process.env.PUBLIC_URL}/images/focus_areas_banner.jpg`}
             alt="Diverse focus areas of NexaCura HealthCare"
             className="w-full max-w-full h-auto rounded-lg shadow-lg object-contain"
           />

@@ -20,7 +20,7 @@ function Navbar() {
           className="flex items-center text-gray-800 text-xl font-bold"
           onClick={(e) => handleNavClick(e, '#home')}
         >
-          <img src="/images/logo.png" alt="NexaCura HealthCare Logo" className="h-10 mr-2" />
+          <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="NexaCura HealthCare Logo" className="h-10 mr-2" />
           NexaCura Healthcare
         </a>
         <button
