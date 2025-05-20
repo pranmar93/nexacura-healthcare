@@ -1,7 +1,7 @@
 # NexaCura Healthcare
 
 ## Copyright Notice
-Copyright (c) 2025 NexaCura Healthcare
+Copyright (c) 2025 NexaCura Healthcare.
 
 All rights reserved. 
 
