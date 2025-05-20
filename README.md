@@ -1,4 +1,4 @@
-# NexaCure Healthcare
+# NexaCura Healthcare
 
 ## Copyright Notice
 Copyright (c) 2025 NexaCura Healthcare
