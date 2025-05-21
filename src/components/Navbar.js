@@ -14,13 +14,13 @@ function Navbar() {
 
   return (
     <nav className="bg-white shadow-md fixed w-full top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center py-4">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <a
           href="#home"
           className="flex items-center text-gray-800 text-xl font-bold"
           onClick={(e) => handleNavClick(e, '#home')}
         >
-          <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="NexaCura HealthCare Logo" className="h-10 mr-2" />
+          <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="NexaCura HealthCare Logo" className="h-20 mr-2" />
           NexaCura Healthcare
         </a>
         <button

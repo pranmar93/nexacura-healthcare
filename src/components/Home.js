@@ -4,15 +4,15 @@ function Home() {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center text-center bg-cover bg-center relative text-white pt-16 w-full max-w-full mt-8 md:mt-12 lg:mt-16 py-10 md:py-16 lg:py-20"
-      style={{ backgroundImage: "url('/images/hero_banner.jpg')" }}
+      className="min-h-screen flex flex-col items-center justify-center text-center bg-cover bg-center relative text-white pt-16 w-full max-w-full mt-8 md:mt-12 lg:mt-16 py-24 md:py-28 lg:py-28"
+      style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/images/hero_banner.jpg)` }}
     >
       <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
       <div className="relative z-20 w-full max-w-2xl mx-auto px-2 sm:px-6 lg:px-8">
         <img
           src={`${process.env.PUBLIC_URL}/images/logo.png`}
           alt="NexaCura HealthCare Logo"
-          className="h-20 mb-5 mx-auto md:h-24 w-full max-w-full object-contain"
+          className="h-28 mb-5 mx-auto md:h-32 w-full max-w-full object-contain"
         />
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-5 text-shadow-md">
           Revolutionizing Health, Connecting Mind and Body

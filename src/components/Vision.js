@@ -2,7 +2,7 @@ import React from 'react';
 
 function Vision() {
   return (
-    <section id="vision" className="bg-gray-100 py-10 md:py-16 lg:py-20 mt-8 md:mt-12 lg:mt-16 w-full max-w-full overflow-x-hidden">
+    <section id="vision" className="bg-gray-100 py-24 md:py-28 lg:py-28 mt-8 md:mt-12 lg:mt-16 w-full max-w-full overflow-x-hidden">
       <div className="w-full max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-gray-800 text-center mb-12">
           Our Vision
