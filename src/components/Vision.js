@@ -19,9 +19,9 @@ function Vision() {
               management and personalized care.
             </p>
             <ul className="text-gray-600 text-sm sm:text-base md:text-lg list-inside">
-              <li>Integrate advanced analytics for real-time health insights.</li>
-              <li>Promote collaboration across the healthcare ecosystem.</li>
-              <li>Enhance patient outcomes through data-driven decisions.</li>
+              <li className='lg:py-4'>‣ Integrate advanced analytics for real-time health insights.</li>
+              <li className='lg:py-4'>‣ Promote collaboration across the healthcare ecosystem.</li>
+              <li className='lg:py-4'>‣ Enhance patient outcomes through data-driven decisions.</li>
             </ul>
           </div>
           <div className="flex-none md:w-2/5 text-center">

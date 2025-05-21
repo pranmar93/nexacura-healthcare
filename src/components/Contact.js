@@ -17,19 +17,19 @@ function Contact() {
           <p className="text-gray-600 text-sm sm:text-base mb-4">
             Email:{' '}
             <a
-              href="mailto:info@nexacura.com"
+              href="mailto:info@nexacurahealthcare.com"
               className="text-blue-500 font-medium hover:underline"
             >
-              info@nexacura.com
+              info@nexacurahealthcare.com
             </a>
           </p>
           <p className="text-gray-600 text-sm sm:text-base">
             Phone:{' '}
             <a
-              href="tel:+1234567890"
+              href="tel:+85265344753"
               className="text-blue-500 font-medium hover:underline"
             >
-              +1 (234) 567-890
+              +(852) 65344753
             </a>
           </p>
         </div>

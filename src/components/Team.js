@@ -5,7 +5,7 @@ function Team() {
     {
       name: 'Shivendra Singh',
       role: 'Founder & CEO',
-      bio: 'Shivendra is a visionary leader with a passion for leveraging technology to solve complex healthcare challenges. His experience in [mention relevant experience if known, otherwise keep generic] drives NexaCura\'s mission to create a more integrated and proactive healthcare future. (Bio to be updated by user)',
+      bio: 'Shivendra is a visionary leader with a passion for leveraging technology to solve complex healthcare challenges. His experience in Medical Technology Automation, Robotics, Neuro-Linguistic Programming and Artificial Intelligence drives NexaCura\'s mission to create a more integrated and proactive healthcare future. He empowers individuals to understand how everything they consume, from nutrition to environmental factors, affects their wellbeing. This holistic perspective drives NexaCura\'s mission to help people make informed decisions for healthier lives.',
       imgSrc: '/images/shivendra_singh.jpg',
     },
     {
@@ -17,7 +17,7 @@ function Team() {
     {
       name: 'Praneet Maroo',
       role: 'Head of Technology',
-      bio: 'Praneet is a seasoned technology expert with a strong background in building fast, reliable, and scalable systems. He leads the development of NexaCura\'s innovative SaMD platform, ensuring its scalability, reliability, and cutting-edge capabilities. Experienced with both hardware & software aspects of the system, he held various engineering position, driving complex projects across global teams. Praneet brings deep expertise in system architecture, end-to-end product development, and applied machine learning and AI - having worked on multiple AI-driven initiatives from concept to deployment.',
+      bio: 'Praneet is a seasoned technology expert with a strong background in building fast, reliable, and scalable systems. He leads the development of NexaCura\'s innovative SaMD platform, ensuring its scalability, reliability, and cutting-edge capabilities. Experienced with both hardware & software aspects of the system, he held various engineering position, driving complex projects across global teams. Praneet brings deep expertise in system architecture, end-to-end product development, and applied ML/AI - having worked on multiple AI-driven initiatives from concept to deployment.',
       imgSrc: '/images/praneet_maroo.jpeg',
     },
   ];
