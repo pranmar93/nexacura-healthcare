@@ -7,21 +7,23 @@ function FocusAreas() {
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-gray-800 text-center mb-12">
           Empowering a Healthier Future, Together
         </h2>
-        <div className="text-center max-w-md mx-auto mb-10">
-          <p className="text-gray-600 text-sm sm:text-base md:text-lg">
-            NexaCura Healthcare is dedicated to fostering a collaborative ecosystem. Our
-            360-degree health insights platform is envisioned to provide significant value
-            across the healthcare spectrum, addressing the complex interplay of
-            physiological and psychological factors in chronic conditions and supporting
-            the management of comorbidities.
-          </p>
-        </div>
-        <div className="mb-10 text-center">
-          <img
-            src={`${process.env.PUBLIC_URL}/images/focus_areas_banner.jpg`}
-            alt="Diverse focus areas of NexaCura HealthCare"
-            className="w-full max-w-full h-auto rounded-lg shadow-lg object-contain"
-          />
+        <div className="flex flex-col md:flex-row items-center gap-8">
+          <div className="text-center max-w-md mx-auto mb-10">
+            <p className="text-gray-600 text-sm sm:text-base md:text-lg">
+              NexaCura Healthcare is dedicated to fostering a collaborative ecosystem. Our
+              360-degree health insights platform is envisioned to provide significant value
+              across the healthcare spectrum, addressing the complex interplay of
+              physiological and psychological factors in chronic conditions and supporting
+              the management of comorbidities.
+            </p>
+          </div>
+          <div className="mb-10 text-center">
+            <img
+              src={`${process.env.PUBLIC_URL}/images/focus_areas_banner.jpg`}
+              alt="Diverse focus areas of NexaCura HealthCare"
+              className="w-full max-w-full h-96 rounded-lg shadow-lg object-contain"
+            />
+          </div>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-lg hover:-translate-y-1 transition-all">

@@ -12,7 +12,7 @@ function Home() {
         <img
           src={`${process.env.PUBLIC_URL}/images/logo.png`}
           alt="NexaCura HealthCare Logo"
-          className="h-28 mb-5 mx-auto md:h-32 w-full max-w-full object-contain"
+          className="h-40 mb-5 mx-auto md:h-40 w-full max-w-full object-contain"
         />
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-5 text-shadow-md">
           Revolutionizing Health, Connecting Mind and Body

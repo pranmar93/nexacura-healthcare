@@ -25,11 +25,11 @@ function Problem() {
               NexaCura Healthcare was founded to bridge this critical divide.
             </p>
           </div>
-          <div className="flex-1 text-center">
+          <div className="text-center">
             <img
               src={`${process.env.PUBLIC_URL}/images/problem_section.jpg`}
               alt="Conceptual image representing healthcare challenges"
-              className="w-full max-w-full h-auto rounded-lg shadow-lg object-contain"
+              className="w-full max-w-full h-96 rounded-lg shadow-lg object-contain"
             />
           </div>
         </div>
