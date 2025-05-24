@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nexacura-healthcare/static/css/main.251e9492.css",
-    "main.js": "/nexacura-healthcare/static/js/main.0e996c32.js",
+    "main.css": "/nexacura-healthcare/static/css/main.290e11f7.css",
+    "main.js": "/nexacura-healthcare/static/js/main.51abb031.js",
     "static/js/453.7e8f78da.chunk.js": "/nexacura-healthcare/static/js/453.7e8f78da.chunk.js",
     "index.html": "/nexacura-healthcare/index.html",
-    "main.251e9492.css.map": "/nexacura-healthcare/static/css/main.251e9492.css.map",
-    "main.0e996c32.js.map": "/nexacura-healthcare/static/js/main.0e996c32.js.map",
+    "main.290e11f7.css.map": "/nexacura-healthcare/static/css/main.290e11f7.css.map",
+    "main.51abb031.js.map": "/nexacura-healthcare/static/js/main.51abb031.js.map",
     "453.7e8f78da.chunk.js.map": "/nexacura-healthcare/static/js/453.7e8f78da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.251e9492.css",
-    "static/js/main.0e996c32.js"
+    "static/css/main.290e11f7.css",
+    "static/js/main.51abb031.js"
   ]
 }
