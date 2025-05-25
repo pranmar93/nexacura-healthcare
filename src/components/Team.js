@@ -17,7 +17,7 @@ function Team() {
     {
       name: 'Praneet Maroo',
       role: 'Head of Technology',
-      bio: 'Praneet is a seasoned technology expert with a strong background in building fast, reliable, and scalable systems. He leads the development of NexaCura\'s innovative SaMD platform, ensuring its scalability, reliability, and cutting-edge capabilities. Experienced with both hardware & software aspects of the system, he held various engineering position, driving complex projects across global teams. Praneet brings deep expertise in system architecture, end-to-end product development, and applied ML/AI - having worked on multiple AI-driven initiatives from concept to deployment.',
+      bio: 'Praneet is a seasoned technology expert with deep expertise in both hardware and software domain. He leads the development of NexaCura\'s innovative SaMD platform, ensuring its scalability, reliability, and cutting-edge capabilities. After graduating from prestigious IIT Kharagpur, Praneet held various engineering position, driving complex projects across global teams. He has extensive experience in system architecture, end-to-end product development, and applied ML/AI - having worked on multiple AI-driven initiatives from concept to deployment.',
       imgSrc: '/images/praneet_maroo.jpeg',
     },
   ];
