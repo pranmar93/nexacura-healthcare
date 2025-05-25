@@ -17,10 +17,10 @@ function Contact() {
           <p className="text-gray-600 text-sm sm:text-base mb-4">
             Email:{' '}
             <a
-              href="mailto:shivendrasingh@nexacurahealthcare.com"
+              href="mailto:shivendra.singh@nexacurahealthcare.com"
               className="text-blue-500 font-medium hover:underline"
             >
-              shivendrasingh@nexacurahealthcare.com
+              shivendra.singh@nexacurahealthcare.com
             </a>
           </p>
           <p className="text-gray-600 text-sm sm:text-base">
