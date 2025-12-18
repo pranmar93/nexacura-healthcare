@@ -9,12 +9,6 @@ function Team() {
       imgSrc: '/images/shivendra_singh.jpg',
     },
     {
-      name: 'Frank Yam',
-      role: 'Co-founder & Director, Cybersecurity',
-      bio: 'Professor Frank Yam brings over 35 years of executive management experience as an IT and cybersecurity specialist. As a global business leader, serial entrepreneur, and angel investor, his expertise is pivotal in ensuring the security and integrity of the NexaCura platform. Frank has held numerous leadership roles in international professional bodies, including ISACA and ACFE, and is a renowned speaker on emerging technologies, risk management, and cybersecurity. His deep knowledge in these areas provides NexaCura with a robust foundation for data protection and compliance.',
-      imgSrc: '/images/frank_yam.png',
-    },
-    {
       name: 'Praneet Maroo',
       role: 'Head of Technology',
       bio: 'Praneet is a seasoned technology expert with deep expertise in both hardware and software domain. He leads the development of NexaCura\'s innovative SaMD platform, ensuring its scalability, reliability, and cutting-edge capabilities. After graduating from prestigious IIT Kharagpur, Praneet held various engineering position, driving complex projects across global teams. He has extensive experience in system architecture, end-to-end product development, and applied ML/AI - having worked on multiple AI-driven initiatives from concept to deployment.',
@@ -33,7 +27,7 @@ function Team() {
           Our team combines expertise in healthcare, technology, and business to build
           solutions that make a meaningful impact.
         </p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {teamMembers.map((member, index) => (
             <div
               key={index}
